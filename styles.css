@@ -1,0 +1,20 @@
+body {
+    background-color: #a8e6cf; 
+}
+
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
